@@ -1,4 +1,5 @@
 ### Hi there 👋
+## 这个程序中，我们按照绩点对学生进行了排序，按照绩点从高到低排序，并赋予相对应的逃课概率，我们每次针对逃课概率前十的人点名，并且给予相对应的逃课概率增减，这样重复点二十次，得到E值。
 
 <!--
 **yaoweixin/yaoweixin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\XiaoYaoCode\ourData\ourData\源.cpp(42,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\XiaoYaoCode\ourData\ourData\源.cpp(101,28): warning C4305: “+=”: 从“double”到“float”截断
+E:\XiaoYaoCode\ourData\ourData\源.cpp(104,28): warning C4305: “-=”: 从“double”到“float”截断
+  ourData.vcxproj -> E:\XiaoYaoCode\ourData\x64\Debug\ourData.exe
